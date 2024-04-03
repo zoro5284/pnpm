@@ -1,0 +1,16 @@
+{
+  "name": "@zoro5284/pkg1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zoro5284/utils": "^1.0.1"
+  }
+}
